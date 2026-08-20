@@ -23,16 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kumquat.run.ico",
     "slug": "kumquat-run-inference",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "65.20%",
+    "uptimeDay": "65.20%",
+    "uptimeWeek": "65.20%",
+    "uptimeMonth": "65.20%",
+    "uptimeYear": "65.20%",
     "time": 283,
     "timeDay": 283,
     "timeWeek": 283,
     "timeMonth": 283,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-20": 0
+    }
   }
 ]
