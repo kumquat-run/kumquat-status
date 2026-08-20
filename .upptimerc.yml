@@ -6,7 +6,7 @@ sites:
   - name: Kumquat.run
     url: https://kumquat.run
   - name: Kumquat.run Inference
-    url: https://api.kumquat.run/v1
+    url: https://api.kumquat.run/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
