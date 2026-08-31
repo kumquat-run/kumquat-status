@@ -1,7 +1,7 @@
 url: https://api.kumquat.run/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-31T17:24:40.170Z
+status: up
+code: 200
+responseTime: 755
+lastUpdated: 2026-08-31T17:25:05.175Z
 startTime: 2026-08-20T04:31:53.703Z
 generator: Upptime <https://github.com/upptime/upptime>
