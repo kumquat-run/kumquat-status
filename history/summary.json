@@ -4,15 +4,15 @@
     "url": "https://kumquat.run",
     "icon": "https://icons.duckduckgo.com/ip3/kumquat.run.ico",
     "slug": "kumquat-run",
-    "status": "up",
-    "uptime": "93.50%",
-    "uptimeDay": "88.95%",
-    "uptimeWeek": "91.17%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "93.50%",
+    "status": "down",
+    "uptime": "93.63%",
+    "uptimeDay": "88.61%",
+    "uptimeWeek": "91.27%",
+    "uptimeMonth": "93.63%",
+    "uptimeYear": "93.63%",
     "time": 559,
     "timeDay": 547,
-    "timeWeek": 522,
+    "timeWeek": 534,
     "timeMonth": 559,
     "timeYear": 559,
     "dailyMinutesDown": {
@@ -27,7 +27,8 @@
       "2026-09-02": 20,
       "2026-09-03": 118,
       "2026-09-04": 527,
-      "2026-09-05": 159
+      "2026-09-05": 159,
+      "2026-09-06": 5
     }
   },
   {
@@ -35,15 +36,15 @@
     "url": "https://api.kumquat.run/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.kumquat.run.ico",
     "slug": "kumquat-run-inference",
-    "status": "up",
-    "uptime": "94.02%",
-    "uptimeDay": "89.29%",
-    "uptimeWeek": "92.06%",
-    "uptimeMonth": "94.02%",
-    "uptimeYear": "94.02%",
+    "status": "down",
+    "uptime": "94.15%",
+    "uptimeDay": "89.28%",
+    "uptimeWeek": "92.05%",
+    "uptimeMonth": "94.15%",
+    "uptimeYear": "94.15%",
     "time": 498,
     "timeDay": 470,
-    "timeWeek": 492,
+    "timeWeek": 505,
     "timeMonth": 498,
     "timeYear": 498,
     "dailyMinutesDown": {
@@ -56,7 +57,8 @@
       "2026-09-01": 15,
       "2026-09-03": 113,
       "2026-09-04": 518,
-      "2026-09-05": 154
+      "2026-09-05": 154,
+      "2026-09-06": 0
     }
   }
 ]
